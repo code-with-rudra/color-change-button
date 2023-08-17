@@ -1,0 +1,13 @@
+button{
+    background: #555555;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin:40vh 90vh ;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+body{
+    transition: 0.5s;
+}
